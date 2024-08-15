@@ -2,7 +2,7 @@
 
 ## Skills
 
-HTML, CSS, JavaScript, Git, Sass, Figma, Npm
+HTML, CSS, JavaScript, TypeScript, React, Redux, StoryBook, Git, Sass, SCSS Figma, Npm
 
 ---
 
