@@ -9,7 +9,6 @@ HTML, CSS, JavaScript, TypeScript, React, Redux, StoryBook, Git, Sass, SCSS Figm
 ## Education
 
 - **2018 - 2024** [BMSTU](https://bmstu.ru/) student
-- **June 2022 - August 2022** [RS School JS/FE PRE-SCHOOL 2022](https://rs.school/js-stage0/) | [Certificate](https://app.rs.school/certificate/m7zq2zcj)
 
 ---
 ## Contacts
