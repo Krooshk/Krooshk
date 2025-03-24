@@ -12,5 +12,4 @@ HTML, CSS, JavaScript, TypeScript, React, Redux, StoryBook, Git, Sass, SCSS Figm
 
 ---
 ## Contacts
-* Telegram: @Kkroosh
 * E-mail: kirill.krush@mail.ru
